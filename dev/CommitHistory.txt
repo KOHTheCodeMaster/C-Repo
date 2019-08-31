@@ -1,0 +1,19 @@
+
+Init Commit - [Pallindrome & Anagram]
+
+/*
+ * Time Stamp: 31th August 2K19, 05:34 PM..!!
+ *
+ * Change Log:
+ *
+ *  <| ================================================================ |>
+ *
+ * Init Commit - [Pallindrome & Anagram]
+ *  1. String & Number Pallindrome
+ *  2. String Anagram
+ *
+ *  <| ================================================================ |>
+ *
+ * Code Developed By,
+ * ~K.O.H..!! ^__^
+ */
